@@ -41,7 +41,7 @@ Users should be able to:
 - Flexbox
 - CSS Grid
 - Mobile-first workflow
-- [Github Pages](https://styled-components.com/) - Hosting
+- [Github Pages](https://pages.github.com/) - Hosting
 
 ### What I learned
 
