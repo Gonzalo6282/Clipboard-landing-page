@@ -29,8 +29,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Github](https://github.com/Gonzalo6282/Clipboard-landing-page)
+- Live Site URL: [Github Pages](https://your-live-site-url.com)
 
 ## My process
 
@@ -49,16 +49,43 @@ To see how you can add code snippets, see below:
 
 ```html
 <h1>Some HTML code I'm proud of</h1>
+  <div class="landing">
+            <div class="landing-top">
+                <div class="landing-top-img">
+                    <!--backgorund image on css always-->
+                    <div class="landing-top-logo">
+                        <img src="images\logo.svg" alt="">
+                    </div>
+                    <div class="landing-top-text">
+                        <h1>A history of everything you copy</h1>
+                        <p>Clipboard allows you to track and organize everything you copy. Instantly access your
+                            clipboard
+                            in all your
+                            devices.</p>
+                    </div>
+                </div>
+
+                <div class="landing-top-btn">
+                    <button class="btn-1">Download for iOS</button>
+                    <button class="btn-2">Download for Mac</button>
+                </div>
+            </div>
+
+        </div>
 ```
 ```css
-.proud-of-this-css {
-  color: papayawhip;
+.facebook :hover {
+    filter: invert(61%) sepia(7%) saturate(3368%) hue-rotate(121deg) brightness(92%) contrast(84%);
 }
-```
-```js
-const proudOfThisFunc = () => {
-  console.log('🎉')
+
+.twitter :hover {
+    filter: invert(61%) sepia(7%) saturate(3368%) hue-rotate(121deg) brightness(92%) contrast(84%);
 }
+
+.instagram :hover {
+    filter: invert(61%) sepia(7%) saturate(3368%) hue-rotate(121deg) brightness(92%) contrast(84%);
+}
+
 ```
 
 ### Continued development
