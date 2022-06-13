@@ -30,7 +30,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Github](https://github.com/Gonzalo6282/Clipboard-landing-page)
-- Live Site URL: [Github Pages](https://your-live-site-url.com)
+- Live Site URL: [Github Pages](https://gonzalo6282.github.io/Clipboard-landing-page/)
 
 ## My process
 
